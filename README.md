@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ### Trabalhando...
 ![alt Trabalhando](https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif)
 
-🔭 Mobile Application Developer at [Pixter](https://www.pixtertechnologies.com/pt-br/) 🔭
+🔭 Mobile Application Developer at [Pixter target _blank](https://www.pixtertechnologies.com/pt-br/) 🔭
 
