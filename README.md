@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 I’m currently working on [Pixter](https://www.pixtertechnologies.com/pt-br/) 🔭
+-> Mobile Application Developer
+
 ### Trabalhando...
 ![alt Trabalhando](https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif)
-
-🔭 Mobile Application Developer at [Pixter](https://www.pixtertechnologies.com/pt-br/) 🔭
-
