@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <div align="left"> 
       <img 
          width="450px" 
-         src="https://github-readme-stats.vercel.app/api?username=MarcosSarges&show_icons=true&include_all_commits=true&count_private=true&theme=white&line_height=30"
+         src="https://github-readme-stats.vercel.app/api?username=MarcosSarges&show_icons=true&include_all_commits=true&count_private=true&theme=dark&line_height=30"
       />
       <img 
          width="330px" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSarges&layout=compact&theme=white&langs_count=10"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSarges&layout=compact&theme=dark&langs_count=10"
       >
 </div
 
