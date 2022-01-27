@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on [Corebiz.](https://www.corebiz.ag/pt/) 🔭
+🔭 I’m currently working on [CI&T](https://ciandt.com/br/) 🔭
 -> Mobile Application Developer
 
 ---
