@@ -32,4 +32,13 @@ Here are some ideas to get you started:
       >
 </div
 
+
+<!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcosSarges&theme=dark)](https://git.io/streak-stats)
+-->
+
+### Visitor Counter:
+
+<img alt="me" width="50%" src="https://profile-counter.glitch.me/MarcosSarges/count.svg" />
+
 ---
