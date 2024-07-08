@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on [AURUM](https://www.aurum.com.br/) 🔭
 -> Mobile Application Developer
 
 ---
