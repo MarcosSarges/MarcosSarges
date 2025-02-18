@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--> Mobile Application Developer
-
+<!-- -> Mobile Application Developer
 ---
+-->
 ### ⚙️ GitHub Analytics
 
 <div align="left"> 
